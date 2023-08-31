@@ -3,7 +3,7 @@ A web application to visualize various pathfinding algorithms on a Grid
 
 ## Installation
 ### Cloning the repository:
-Clone the repository using git clone https://github.com/hancy0007/Path-Visualizer.git
+Clone the repository using git clone https://github.com/viveksharma2906/Path-Visualizer
 ### Installing dependencies:
 Run `npm install`
 ### Starting the server:
@@ -44,5 +44,4 @@ After visualization you can reposition start and end node as you want and add an
 ## Developers
 ### This Project was built by
 
-- Himanshu Chaudhary
-- Palak Kothari
+Vivek Sharma
